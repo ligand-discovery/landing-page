@@ -16,13 +16,13 @@ col.markdown("Explore the interactions between ligands and proteins. This is the
 col.header(":mag: [Explore protein sets](https://example.com)")
 col.markdown("With this tool, you can in put a set of proteins and see how many fragments interact with them according to our chemoproteomics data. We categorize proteins by their promiscuity/specificity levels to easily detect reported effect such as labeling bias.")
 
-col.header(":mountain: [Protein set enrichment analysis](https://example.com)")
+col.header(":mountain: [Protein set enrichment analysis](https://enrich.ligand-discovery.ai/)")
 col.markdown("Explore fragment profiles from an enrichment perspective. We capture protein annotations of multiple scopes, from domains and families to molecular functions and cellular localization. We offer global and detailed views for each fragment.")
 
-col.header(":robot_face: [Fragment predictor](https://example.com)")
+col.header(":robot_face: [Fragment predictor](https://fpred.ligand-discovery.ai/)")
 col.markdown("Predict whether your fully-functionalized fragment of interest is likely to be promiscuous or associated with a specific interactome signature. We have predefined 10 interactome signatures capturing high-level biological processes that emerged from our chemoproteomics data.")
 
-col.header(":rocket: [On-the-fly modeling](https://example.com)")
+col.header(":rocket: [On-the-fly modeling](https://onthefly.ligand-discovery.ai/)")
 col.markdown("Build a machine learning model on the fly to predict potential interactions between your fully-functionalized fragments and proteins of interest. Sets of proteins are accepted and organized in coherent subsets to maximize the chance of obtaining a good model.")
 
 col.header(":arrow_down: [Download data](https://example.com)")
