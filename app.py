@@ -29,12 +29,15 @@ col.header(":arrow_down: [Download data](https://example.com)")
 col.markdown("Download our screening results for a more customized exploration.")
 
 col = cols[1]
-col.image("assets/fragments.jpeg", width=700)
+col.image("assets/fragments.jpeg", width=600)
 
 st.divider()
 
 st.subheader("Publication in _Science_")
 st.markdown("This work is related to the following publication: [Offensperger et al., Science 384, eadk5864 (2024)](https://www.example.com).")
+
+st.subheader("Code repositories")
+st.markdown("The code repositories to run these apps locally are available on GitHub in the [ligand-discovery](https://github.com/ligand-discovery) profile.")
 
 st.subheader("About")
 st.markdown("Ligand Discovery is a project developed at [CeMM](https://cemm.at), Vienna, led by [Georg Winter](https://www.winter-lab.com/)'s group.")
